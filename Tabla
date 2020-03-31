@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tabla avanzada</title>
+
+<style type="text/css">
+	#formulario{
+		
+		position: absolute;
+		top: 20%;
+		left:50%;
+		transform: translate(-50%,-20%);
+	}
+	h2{
+		color:blue;
+	}
+	h3{
+		color:#000;
+		
+	}
+</style>	
+</head>
+<body>
+	<form id="formulario">
+	<h1 align="center"><b>RESULTADO DE LA BUSQUEDA</b></h1>
+	<h4 align="center"><b>Resusltado de la Busqueda</b></h4>
+	<table border="	1 " align="	center ">
+		
+			<tr>
+
+			<td>Imagen</td>
+			<td>Datos</td>
+			</tr>
+
+		<tr align="	left ">
+			
+			<td><img width="100" height="80"  src="laptopimg.jpg"></td>
+			<td><h2>Portatil -3Ghz -4GB RAM <br><u>Comprar:</u> <h3><s>$2.990</s> -$2.599 </h3></h2></td>
+		</tr>
+
+		<tr align="	left ">
+			<td><img  width="100" height="80" src="videoimg.jpg"></td>
+			<td><h2>Video cámara - Alata definicion 4K - 60GB <br> <u>Comprar:</u></h2><h3> <s>$1.099</s>  - $999 </h3></td>
+		</tr>
+
+		<tr align="	left ">
+			<td><img  width="100" height="80" src="televisionimg.jpg"></td>
+			<td><h2>Smart TV - Alata definicion 4K - Sonido stereo <br><u>Comprar:</u> </h2><h3> <s> $10.500 </s> - $8.999 </h3></td>
+		</tr>
+
+		<tr align="	left ">
+			<td><img  width="100" height="80" src="celimg.jpg"></td>
+			<td><h2>Celular Huawei 4G - WIFI- Android 9<br><u>Comprar:</u></h2><h3> <s>$4.780</s>  - $4.000  </h3></td>
+		</tr>
+
+
+	</table>
+</form>
+</body>
+<footer>Alejandro Palafox Ingenieria 8° UPEM ixtapaluca</footer>
+</html>
