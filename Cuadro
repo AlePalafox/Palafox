@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Cuadrados</title>
+	<link rel="stylesheet" type="text/css" href="cuadro.css">
+</head>
+<body>
+
+		<div id="cabecera"> cabacera</div>
+		
+	<div id="menu"> menu </div>
+	<div id="cuerpo">cuerpo	</div>
+     <div id ="pie"> pie </div>
+	 
+</body>
+</html>
