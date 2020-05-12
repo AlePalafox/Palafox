@@ -1,0 +1,41 @@
+var = coche{
+
+puertas: “2”,
+ruedas: “4”,
+marca: 'honda',
+color:'negro',
+modelo: 'crv'
+};
+console.log(coche);
+
+var = Ford{
+
+puertas: coche.puertas,
+ruedas: coche.ruedas,
+color: coche.color,
+fabricante: fabricantes.marca1
+};
+
+var = Fiat{
+puertas: coche.puertas,
+ruedas: coche.ruedas,
+color: coche.color,
+fabricante: fabricantes.marca2
+};
+console.log(Ford.Fiat);
+
+var flight = {
+    airline: "Oceanico",
+    number: 815,
+    departure: {
+        IATA: "SYD",
+        time: "2004-09-22 14:55",
+        city: "Sydney"
+    },
+    arrival: {
+        IATA: "LAX",
+        time: "2004-09-23 10:42",
+        city: "Los Angeles"
+    }
+};
+console.log(flight);
